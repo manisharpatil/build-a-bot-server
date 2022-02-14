@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/jmcooper/build-a-bot-server.git"
+    "url": "https://github.com/manisharpatil/build-a-bot-server.git"
   },
   "keywords": [
     "Vue.js",
@@ -16,7 +16,7 @@
     "api"
   ],
   "author": "Manisha Patil",
-  "homepage": "https://github.com/jmcooper/build-a-bot-server#readme",
+  "homepage": "github.com/manisharpatil/build-a-bot-server#readme",
   "dependencies": {
     "connect-history-api-fallback": "^1.6.0",
     "express": "^4.16.3"
