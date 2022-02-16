@@ -1,5 +1,5 @@
 {
-  "name": "build-a-bot-server",
+  "name": "build-a-robot-server",
   "version": "1.0.0",
   "description": "A server used by the build a bot client side app",
   "main": "index.js",
